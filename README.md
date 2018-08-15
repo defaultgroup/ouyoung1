@@ -23,7 +23,8 @@
 	<h1>문제 2번</h1>
 	<br>
 	<h3>이 동물의 이름은?</h3>
-	<img src="http://postfiles12.naver.net/20150628_123/graindea_1435422901723zhszz_JPEG/20150618_170005.jpg?type=w2" width="740" height="555">
+	<img src="http://postfiles12.naver.net/20150628_123/graindea_1435422901723zhszz_JPEG/20150618_170005.jpg?type=w2"
+	     width="740" height="555">
 	<br>
 	<br>
 	<a href="wrong.html"><button onclick="nono();">1.강아지</button></a>
