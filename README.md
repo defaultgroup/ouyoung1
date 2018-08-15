@@ -1,5 +1,4 @@
-<title>디폴트숙제-심우영</title>
-	<style>
+<style>
 		body{
 			background-color:#87CEEB;
 			text-align: center;
@@ -16,24 +15,19 @@
 			width:300;
 			font-size:20pt;
 		}
-			#margin{
-			width: 400px;
-			margin: 0 auto;
-		}
-	</style>
-	<script>
-		function chang(){
-			alert("정답")
-		}
-		function nono(){
-			alert("오답")
-		}
-	</script>
 	</style>
 	<body>
+	<script>
+	function chang(){
+		alert("정답")
+	}
+	function nono(){
+		alert("오답")
+	}
+	</script>
 	<h1 id="mondai">문제 2번</h1>
 	<br>
-	<div id="margin">이 동물의 이름은?</div>
+	<h3>이 동물의 이름은?</h3>
 	<img src="http://postfiles12.naver.net/20150628_123/graindea_1435422901723zhszz_JPEG/20150618_170005.jpg?type=w2" width="740" height="555">
 	<br>
 	<br>
