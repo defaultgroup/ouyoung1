@@ -2,8 +2,6 @@
 	<style>
 		body{
 			background-color:#87CEEB;
-			width: 700px; 
-			margin: 0 auto;
 			text-align: center;
 		}
 		button{
