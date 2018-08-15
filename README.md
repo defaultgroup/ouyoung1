@@ -1,8 +1,7 @@
 <!DOCTYPE HTML>
 	<title>디폴트숙제-심우영</title>
 	<head>
-		<meta charset="UTF-8">
-		<style type="text/css">
+		<style>
 			body{
 				background-color:#87CEEB;
 				width: 700px; 
@@ -27,7 +26,7 @@
 				margin: 0 auto;
 			}
 		</style>
-		<script ="text/javascript">
+		<script>
 			function chang(){
 				alert("정답")
 			}
@@ -35,6 +34,7 @@
 				alert("오답")
 			}
 		</script>
+		</style>
 	</head>
 	<body>
 		<h1 id="mondai">문제 2번</h1>
